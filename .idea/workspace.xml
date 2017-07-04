@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cda05fdd-4c8b-4616-a14d-1cd20e06d741" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="senic.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/senic.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-220">
+              <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+              <folding>
+                <element signature="e#108#122#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/senic.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="22" />
+    <option name="width" value="1382" />
+    <option name="height" value="754" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="system_senic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="system_senic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$USER_HOME$/Anaconda3/python.exe" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.senic">
+    <configuration default="false" name="senic" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="system_senic" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/senic.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="system_senic" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="system_senic" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="system_senic" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="system_senic" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Python.senic" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.senic" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cda05fdd-4c8b-4616-a14d-1cd20e06d741" name="Default" comment="" />
+      <created>1497732279935</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1497732279935</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="22" width="1382" height="754" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14145234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26174498" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/senic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1012">
+          <caret line="46" column="21" lean-forward="false" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+          <folding>
+            <element signature="e#108#122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding>
+            <element signature="e#108#122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="e#108#122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="21" lean-forward="false" selection-start-line="10" selection-start-column="21" selection-end-line="10" selection-end-column="21" />
+          <folding>
+            <element signature="e#108#122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#108#122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#108#122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python34/Lib/threading.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-40">
+          <caret line="919" column="0" lean-forward="false" selection-start-line="919" selection-start-column="0" selection-end-line="919" selection-end-column="0" />
+          <folding>
+            <marker date="1423413694000" expanded="false" signature="67:100" ph="import ..." />
+            <marker date="1423413694000" expanded="true" signature="454:965" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="978:1211" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="1675:1920" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="1680:1870" ph="&quot;&quot;&quot;Set a profile function for all threads started from the threading module....&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="1941:2178" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="1946:2132" ph="&quot;&quot;&quot;Set a trace function for all threads started from the threading module....&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="2257:2675" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="2262:2574" ph="&quot;&quot;&quot;Factory function that returns a new reentrant lock....&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="2690:6487" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="2695:3001" ph="&quot;&quot;&quot;This class implements reentrant lock objects....&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="3026:3116" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="3141:3369" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="3420:4983" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="3429:4736" ph="&quot;&quot;&quot;Acquire a lock, blocking or non-blocking....&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="4791:4841" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="4908:4965" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="5032:5906" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="5041:5668" ph="&quot;&quot;&quot;Release a lock, decrementing the recursion level....&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="5841:5906" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="5941:5964" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="6056:6127" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="6157:6419" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="6445:6487" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="6525:12296" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="6530:6898" ph="&quot;&quot;&quot;Class that implements a condition variable....&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="6934:7729" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="7153:7359" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="7755:7793" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="7825:7867" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="7892:7964" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="7994:8052" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="8088:8148" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="8174:8434" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="8183:8304" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="8338:8396" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="8469:10467" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="8478:9615" ph="&quot;&quot;&quot;Wait until notified or until a timeout occurs....&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="9888:10247" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="9980:10042" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="10060:10222" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="10264:10467" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="10337:10467" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="10517:11205" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="10526:10752" ph="&quot;&quot;&quot;Wait until a condition evaluates to True....&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="10857:11183" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="10894:11118" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="11001:11118" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="11233:12011" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="11242:11579" ph="&quot;&quot;&quot;Wake up one or more threads waiting on this condition, if any....&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="11870:12011" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="12038:12268" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="12047:12228" ph="&quot;&quot;&quot;Wake up all threads waiting on this condition....&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="12315:15361" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="12320:12653" ph="&quot;&quot;&quot;This class implements semaphore objects....&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="12765:12923" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="12976:14938" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="12985:14227" ph="&quot;&quot;&quot;Acquire a semaphore, decrementing the internal counter by one....&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="14422:14920" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="14458:14843" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="14557:14802" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="14675:14802" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="14861:14920" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="14987:15303" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="14996:15217" ph="&quot;&quot;&quot;Release a semaphore, incrementing the internal counter by one....&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="15242:15303" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="15338:15361" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="15398:16756" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="15403:16090" ph="&quot;&quot;&quot;Implements a bounded semaphore....&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="16124:16200" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="16224:16756" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="16233:16549" ph="&quot;&quot;&quot;Release a semaphore, incrementing the internal counter by one....&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="16574:16756" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="16771:19030" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="16776:17024" ph="&quot;&quot;&quot;Class implementing event objects....&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="17108:17174" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="17212:17318" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="17341:17435" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="17475:17831" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="17484:17673" ph="&quot;&quot;&quot;Set the internal flag to true....&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="17715:17781" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="17853:18161" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="17862:18038" ph="&quot;&quot;&quot;Reset the internal flag to false....&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="18196:19030" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="18205:18795" ph="&quot;&quot;&quot;Block until the internal flag is true....&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="18837:18980" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="19033:19702" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="19717:24893" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="19722:19937" ph="&quot;&quot;&quot;Implements a Barrier....&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="19998:20586" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="20007:20356" ph="&quot;&quot;&quot;Create a barrier, initialised to 'parties' threads....&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="20621:21623" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="20630:20970" ph="&quot;&quot;&quot;Wait for the barrier....&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="21059:21623" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="21197:21472" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="21244:21325" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="21347:21443" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="21493:21623" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="21629:21716" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="21738:22011" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="21776:21865" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="22017:22100" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="22124:22429" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="22137:22296" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="22312:22429" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="22435:22539" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="22569:22844" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="22641:22747" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="22850:22957" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="22978:23157" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="23007:23157" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="23046:23157" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="23179:23803" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="23188:23335" ph="&quot;&quot;&quot;Reset the barrier to the initial state....&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="23360:23803" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="23392:23717" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="23429:23524" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="23564:23717" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="23585:23680" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="23825:24086" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="23834:24035" ph="&quot;&quot;&quot;Place the barrier into a 'broken' state....&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="24109:24278" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="24118:24221" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="24316:24418" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="24458:24760" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="24544:24683" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="24797:24893" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="24974:24983" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="25146:25179" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="25374:42621" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="25379:25648" ph="&quot;&quot;&quot;A class that represents a thread of control....&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="25679:25920" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="25955:26086" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="26202:27825" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="26211:27060" ph="&quot;&quot;&quot;This constructor should always be called with keyword arguments. Arguments are:...&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="27611:27720" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="27873:28309" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="27882:28022" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="28139:28309" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="28152:28236" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="28334:28847" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="28869:29657" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="28878:29185" ph="&quot;&quot;&quot;Start the thread's activity....&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="29540:29628" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="29677:30351" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="29686:30036" ph="&quot;&quot;&quot;Method representing the thread's activity....&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="30049:30136" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="30153:30351" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="30166:30296" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="30378:31350" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="30387:31196" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="31261:31350" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="31377:31411" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="31444:31687" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="31453:31607" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="31720:34589" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="31733:34305" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="31868:31945" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="32211:34009" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="32228:32465" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="32518:32649" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="32696:34009" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="32717:32873" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="32965:33769" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="33320:33684" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="33454:33610" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="33790:33924" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="34030:34305" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="34047:34284" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="34322:34589" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="34359:34589" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="34380:34540" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="34401:34495" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="34611:35788" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="34620:35624" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="35812:37610" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="35898:37127" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="37141:37509" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="37178:37509" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="37236:37509" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="37534:37610" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="37645:39306" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="37654:38701" ph="&quot;&quot;&quot;Wait until the thread terminates....&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="39093:39306" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="39106:39242" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="39368:40043" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="39377:39808" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="39991:40043" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="40078:40368" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="40087:40277" ph="&quot;&quot;&quot;A string used for identification purposes only....&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="40412:40508" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="40544:40966" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="40553:40874" ph="&quot;&quot;&quot;Thread identifier of this thread or None if it has not been started....&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="40991:41479" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="41000:41252" ph="&quot;&quot;&quot;Return whether the thread is alive....&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="41540:42104" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="41549:42009" ph="&quot;&quot;&quot;A boolean value indicating whether this thread is a daemon thread....&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="42156:42398" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="42423:42450" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="42486:42517" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="42541:42566" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="42596:42621" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="42704:43524" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="42709:42926" ph="&quot;&quot;&quot;Call a function after a specified number of seconds:...&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="42995:43235" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="43258:43342" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="43362:43524" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="43526:43629" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="43657:43904" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="43682:43904" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="43907:44341" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="44370:44714" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="44395:44593" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="44615:44628" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="44663:44714" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="44762:45108" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="44767:45012" ph="&quot;&quot;&quot;Return the current Thread object, corresponding to the caller's thread of control....&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="45161:45389" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="45166:45318" ph="&quot;&quot;&quot;Return the number of Thread objects currently alive....&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="45436:45562" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="45580:45935" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="45585:45844" ph="&quot;&quot;&quot;Return a list of all Thread objects currently alive....&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="45969:46081" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="46129:46878" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="46134:46510" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="46553:46647" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="46795:46851" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="46911:47016" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="46937:47000" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="47036:47214" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="47041:47190" ph="&quot;&quot;&quot;Return the main thread object....&quot;&quot;&quot;" />
+            <marker date="1423413694000" expanded="true" signature="47216:47311" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="47437:48996" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="47442:47780" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="48047:48996" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="48056:48161" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="48262:48880" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="48275:48391" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="48425:48725" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="48442:48557" ph="..." />
+            <marker date="1423413694000" expanded="true" signature="48743:48880" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/senic.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-220">
+          <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding>
+            <element signature="e#108#122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

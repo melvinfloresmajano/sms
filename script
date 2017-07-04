@@ -1,0 +1,32 @@
+# -*- coding: utf-8 -*-
+__author__ = "SENIC"
+__copyright__ = "Copyright 2017, SENIC"
+
+import pymysql
+import os
+
+conn = pymysql.connect(host = "localhost", port = 3306, user = "root", passwd = "admin", db = "portal_sms")
+cursor = conn.cursor()
+query = "SELECT id_sms, numero, mensaje, enviado FROM sms where enviado = 0"
+cursor.execute(query)
+#NoRestore
+#os.system("C:\SMSCaster\smscaster.exe -Start")
+number = open('C:\\Users\\trasend\PycharmProjects\system_senic\envios\\numeros.txt', 'a')
+message = open('C:\\Users\\trasend\PycharmProjects\system_senic\envios\\mensaje.txt', 'a')
+for id_sms, numero, mensaje, enviado in cursor.fetchall():
+    number.write(str(numero))
+    number.write('\n')
+    message.write('"' + str(mensaje) + '"')
+    message.write('\n')
+    #inyeccion = 'C:\SMSCaster\smscaster.exe -Compose ' + str(numero) + ' "' + str(mensaje) + '" -NoSplash'
+    #print(inyeccion)
+    #os.system(inyeccion)
+    #cursor.execute("UPDATE sms SET enviado = 1 WHERE id_sms =" + str(id_sms))
+    # Guardar cambios.
+    #conn.commit()
+number.close()
+message.close()
+#os.system("C:\SMSCaster\smscaster.exe -Stop")
+conn.close()
+inyeccion = 'C:\SMSCaster\smscaster.exe -Compose C:\\Users\\trasend\PycharmProjects\system_senic\envios\\numeros.txt C:\\Users\\trasend\PycharmProjects\system_senic\envios\\mensaje.txt'
+os.system(inyeccion)
